@@ -1,0 +1,4 @@
+Name: Run roxygen2
+Description: Run roxygen2 examples
+Binding: run_roxygen_examples
+Interactive: false
